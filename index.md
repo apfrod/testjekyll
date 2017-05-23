@@ -3,6 +3,7 @@ layout: default
 title: My website
 ---
 
+
 {% include banner.html %}
 
-<p>A link to an <a href="interesting.html">interesting page.</a></p>
+A link to an [interesting page.](https://forestry.io/sites/ueoh0demnvo9aq/interesting.html)
